@@ -19,3 +19,14 @@ https://dzone.com/articles/java-8-permgen-metaspace
 
 <h2>  Thread Dump   </h2>
 https://dzone.com/articles/how-to-take-thread-dumps-7-options </br>
+
+<h2> JVM Architecture </h2>
+
+https://dzone.com/articles/jvm-architecture-explained </br>
+
+<h2> Java Memory management </h2>
+https://betsol.com/2017/06/java-memory-management-for-java-virtual-machine-jvm/ </br>
+http://www.baeldung.com/java-memory-management-interview-questions </br>
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java </br>
+
+
