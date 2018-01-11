@@ -28,5 +28,5 @@ https://dzone.com/articles/jvm-architecture-explained </br>
 https://betsol.com/2017/06/java-memory-management-for-java-virtual-machine-jvm/ </br>
 http://www.baeldung.com/java-memory-management-interview-questions </br>
 https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java </br>
-
+https://dzone.com/articles/java-performance-tuning </br>
 
